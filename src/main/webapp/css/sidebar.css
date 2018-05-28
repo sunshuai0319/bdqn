@@ -8,7 +8,7 @@
 
 .banner-h {
 	width: 100%;
-	height: 580px;
+	height: 520px;
 	background: url(../img/high/banner.png) no-repeat;
 	background-size: 100%;
 }
@@ -389,7 +389,7 @@ h6 {
 
 .boyWrap {
 	height: 6800px;
-	margin-top: 84px;
+	margin-top: 0px;
 }
 
 .boyWrap .boy-con {
@@ -736,7 +736,7 @@ h6 {
 
 .girlWrap {
 	height: 6206px;
-	margin-top: 84px;
+	margin-top: 0px;
 }
 
 .girlWrap .girl-con {

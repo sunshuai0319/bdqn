@@ -4,26 +4,26 @@ body {
 }
 .banner-dsj {
 	width: 100%;
-	height: 733px;
+	height: 500px;
 	background: url(../img/dsj/banner.jpg) no-repeat;
 	background-size: 100%;
 }
 
 .banner-rjcs {
 	width: 100%;
-	height: 733px;
+	height: 600px;
 	background: url(../img/rjcs/banner1-2.jpg) no-repeat;
 	background-size: 100%;
 }
 .banner-c{
 	width: 100%;
-	height: 733px;
+	height: 500px;
 	background: url(../img/c/banner_01.jpg) no-repeat;
 	background-size: 100%;
 }
 .banner-wlyx {
 	width: 100%;
-	height: 733px;
+	height: 680px;
 	background: url(../img/wlyx/banner08.png) no-repeat;
 	background-size: 100%;
 }
@@ -43,7 +43,7 @@ body {
 
 .banner-unity {
 	width: 100%;
-	height: 550px;
+	height: 450px;
 	background: url(../img/unity/banner.jpg) no-repeat;
 	background-size: 100%;
 }
@@ -54,6 +54,13 @@ body {
 	background-size: 100%;
 }
 
+.banner-kuaiji {
+	width: 100%;
+	height: 200px;
+	background: url(../img/kuaiji/66.jpg) no-repeat;
+	background-size: 100%;
+}
+
 .banner-accp {
 	width: 100%;
 	height: 733px;
@@ -61,9 +68,17 @@ body {
 	background-size: 100%;
 }
 
+.banner-huanyi  {
+	width: 100%;
+	height: 733px;
+	position: relative;
+	left: 50px;
+	
+}
+
 .accpFWrap {
 	height: 660px;
-	margin-top: 90px;
+	margin-top: 60px;
 }
 
 .accpF {
@@ -142,6 +157,18 @@ body {
 	width: 1212px;
 	height: 388px;
 	background: url(../img/accp/sec_2.png) no-repeat right center;
+}
+
+.huanyi-content {
+	width: 1212px;
+	height: 388px;
+	background: url(../img/huanyi/sj_03.jpg) no-repeat right center;
+}
+
+.kuaiji-content {
+	width: 1212px;
+	height: 388px;
+	background: url(../img/kuaiji/part2_cma.jpg) no-repeat right center;
 }
 
 .course-info {
@@ -363,6 +390,17 @@ body {
 	height: 590px;
 	background: url(../img/accp/sec6.jpg) no-repeat 0 93px;
 }
+.accphuanyi {
+	width: 1212px;
+	height: 840px;
+	background: url(../img/huanyi/timg.jpg) no-repeat 0 93px;
+}
+
+.accpkuaiji {
+	width: 1212px;
+	height: 590px;
+	background: url(../img/kuaiji/cmaxzg.jpg) no-repeat 0 93px;
+}
 
 .accpP {
 	width: 1212px;
@@ -403,7 +441,7 @@ body {
 
 .banner-benet {
 	width: 100%;
-	height: 733px;
+	height: 700px;
 	background: url(../img/benet/banner.png) no-repeat;
 	background-size: 100%;
 }
