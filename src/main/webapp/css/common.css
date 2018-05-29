@@ -1980,6 +1980,60 @@ h3 {
 }
 
 
+/*开班信息*/
+.kbxx {
+	width: 1200px;
+	margin: 0 auto;
+	height: 500px;
+	position: relative;
+	top: 20px;
+}
+
+.kbxx ul li:hover {
+	box-shadow: 10px 10px 5px #888888;
+	transform: translateY(-10px);
+}
+
+.kbxx ul li {
+	width: 340px;
+	height: 220px;
+	float: left;
+	margin-right: 60px;
+	margin-top: 10px;
+	transition: all .25s ease-in;
+	-moz-transition: all .25s ease-in;
+	-webkit-transition: all .25s ease-in;
+}
+
+.kbxx ul li div p {
+	height: 55px;
+	width: 340px;
+	background-color: #215591;
+	color: white;
+	line-height: 55px;
+	font-size: 24px;
+	text-align: center;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.kbxx ul li div table {
+	height: 55px;
+	width: 340px;
+	line-height: 29px;
+	font-size: 17px;
+	color: #333;
+	text-align: center;
+	position: relative;
+	top: 10px;
+}
+
+.kbxx ul li div table tr{
+	
+	border-bottom: #C0C0C0;
+	border-bottom-style: dotted;
+}
+
+
 /*学什么好*/
 
 .zygh {
