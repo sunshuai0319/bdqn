@@ -140,6 +140,14 @@ h3 {
 	background-size: 100%;
 }
 
+.banner-dsj-index {
+	width: 100%;
+	height: 500px;
+	background: url(../img/111111.jpg) no-repeat;
+	background-size: 100%;
+}
+
+
 .banner-nvsheng {
 	width: 100%;
 	height: 500px;
@@ -505,16 +513,66 @@ h3 {
 	-webkit-transform: scale(1.1);
 }
 
+
+/*大数据/云计算*/
+
+.campusWrap-dsjyjs {
+	height: 350px;
+	margin-top: 20px;
+}
+
+.campus {
+	width: 1226px;
+	height: 326px;
+	position: relative;
+}
+
+.campusWrap-dsjyjs .campus ul {
+	width: 1226px;
+	height: 268px;
+	margin-top: 30px;
+}
+
+.campusWrap-dsjyjs .campus li {
+	float: left;
+	height: 268px;
+}
+
+.campusWrap-dsjyjs .campus li:nth-child(1),
+
+
+
+.campusWrap-dsjyjs .campus li:nth-child(4) {
+	width: 190px;
+	margin: 0 14px 0 15px;
+}
+
+.campusWrap-dsjyjs .campus li:nth-child(4) {
+	margin-right: 0;
+}
+
+.campusWrap-dsjyjs .campus li a img {
+	transition: all 1s;
+	width: 550PX; 
+	height: 300PX;
+}
+
+.campusWrap-dsjyjs .campus li a:hover img {
+	transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+}
+
+/*大数据.云计算结束*/
+
 .storyWrap {
 	height: 350px;
 	background: #f5f5f5;
-	margin-top: 0px;
 }
 
 .story {
 	width: 1226px;
 	height: 380px;
-	padding-top: 70px;
+	padding-top: 20px;
 	overflow: hidden;
 	position: relative;
 }
@@ -523,7 +581,7 @@ h3 {
 	width: 6000px;
 	height: ;
 	position: absolute;
-	top: 136px;
+	top: 90px;
 	left: 0;
 	clear: both;
 }
@@ -564,7 +622,6 @@ h3 {
 
 .teamWrap {
 	height: 285px;
-	margin-top: 50px;
 }
 
 .teamWrap .team {
@@ -2094,6 +2151,9 @@ h3 {
 	color: #333;
 }
 
+.qnls {
+	margin-top: 40px;
+}
 .qnls ul {
 	width: 1200px;
 	margin: 0 auto;
