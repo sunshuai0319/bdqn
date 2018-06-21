@@ -140,6 +140,13 @@ h3 {
 	background-size: 100%;
 }
 
+.banner-zhongzhuan {
+	width: 100%;
+	height: 500px;
+	background: url(../img/zhongzhuan/1-1P1301R152129.png) no-repeat;
+	background-size: 100%;
+}
+
 .banner-dsj-index {
 	width: 100%;
 	height: 500px;

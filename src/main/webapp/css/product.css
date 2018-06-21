@@ -67,6 +67,18 @@ body {
 	background: url(../img/index/sec3-1.jpg) no-repeat;
 	background-size: 100%;
 }
+.banner-zhongzhuan {
+	width: 100%;
+	height: 470px;
+	background: url(../img/zhongzhuan/1-1P1301R152129.png) no-repeat;
+	background-size: 100%;
+}
+.banner-zhongzhuan-zhanshi {
+	width: 100%;
+	height: 400px;
+	background: url(../img/zhongzhuan/1-1P1301R213564.jpg) no-repeat;
+	background-size: 100%;
+}
 .banner-dianjing {
 	width: 100%;
 	height: 300px;
@@ -153,16 +165,30 @@ body {
 	height: 786px;
 	margin-top: 64px;
 }
+.gaoWrap-zhanshi {
+	height: 900px;
+	margin-top: 64px;
+}
 
 .gao {
 	width: 1212px;
 	height: 586px;
 }
 
+.gao-zhanshi {
+	width: 1212px;
+	height: 700px;
+}
+
 .gao-content {
 	width: 1212px;
 	height: 388px;
 	background: url(../img/accp/sec_2.png) no-repeat right center;
+}
+
+.gao-content-zhanshi {
+	width: 1212px;
+	height: 388px;
 }
 
 .dianjing-content {
